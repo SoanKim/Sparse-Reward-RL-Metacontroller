@@ -14,7 +14,7 @@ This project implements a **Hybrid Metacontroller** that arbitrates between a fa
 
 The framework investigates **resource-rational control**, exploring how agents optimize the trade-off between computational effort and decision accuracy when external rewards are withdrawn.
 
-## Key Features (Implemented)
+## Key Features
 
 * **Hybrid Metacontrol:** Arbitrates between strategies based on **Alignment Clarity** (prospective structural match) rather than just retrospective reward history.
 * **Insight Latch:** Implements a **one-shot structural gating** mechanism that instantly converts discovered logical guarantees (Singletons) into cached policy weights.
