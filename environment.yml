@@ -1,0 +1,21 @@
+name: metacontrol_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - ruptures
+  - celluloid
+  - imageio
+  - tqdm
+  - pip:
+    - factor_analyzer
+    - scikit-optimize
